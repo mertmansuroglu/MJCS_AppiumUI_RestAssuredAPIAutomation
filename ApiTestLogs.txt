@@ -1,0 +1,35 @@
+Request method:	POST
+Request URI:	https://elbtesting.idscan.cloud/idscanenterprisesvc/Configuration/Update
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		authorization=XYayHu2L_tT-7Lfn6XSXxmSM540aF2z-Z6MiWLMrftYjUU8dfFvp0RCAU77Sw0S2Yxkk8h18iW0jVc7Dy8-oshrLUYOtKMCrocvgOt8IHUbXPlUKT3I_NmJTgeRIV0cKVnKcrahkpF747L93WLZDW2Q31Qh60mc2z2VBtJfCYX8qOR74sohGqfLa4GPDMxQHkTacC0ECamUZVFhrHcrDaISw87jZKPl-48NgNMjBUXKuavfdCvV4YQYNX3CBdjyzjPBSL94AYTqfRATSYvhMMjaJxAxvazSssfnl1NqOv6UAmcD6Zk6LHHdZPJtH-yaeTUsj4jJzfybuUn_iJTpjDj8RXJzN-CHEjas1PJn2aUTsRp3O4zZfMMGuHINdw0hdsoerwdgv5DNEjLb6xmHd5I2222_qXA7S-l5R7tP1NcrnFA0BXBQD4C_rV0Of9W5h
+				x-csrftoken=S5Sj6iFL7ocVtwkaE0F55pCtuEwu/omH1Qec8X2djc6L3OGbebAZ6p/aizFUvecxJliNHHfuHekdItAKv7YocE0JLi7fCVUZsB3ngywNgVviWpa+fOdc82IIfEhavt7ARQr0A2plT78RreCoPWcCLoa8oURDZY0EKhoRy40HUCLGAHlpUnAPGgIGu4OjlqlY/cKP28ShDN5RHxdDAYV8nVsTjzTx9th0X3Y+z0YaIgd37ljkhqnyVh/nUQcH1C5LKWwwgOrQRd9GnhkB8SYu7zNmGtzIRG1xGXIDeTFO23DnxOwTvcEE27+/RLTCZsKWwJpSlXRz5hGa+ZdGk8fMH5bsA4HBCShDH4DKy1LOtd7rdopFA1VkXozRgFwRmEX3winPBnePBEFKsUrc/hhH/3SfD9Yj637in4GeE5UEH3E/LsTHocBtY1wM965H1fSC8mvWxsgebbfJMAn7tCwzD3mYF7lZj2Hs3T958aUtNfIFf0hI74ITG21jZLUZSX7f+jVJK3NPz1AG51YEhvldR5yS1oC8acqLUnFKP9rz0Xl6muDSznVUZ/QVTmbmTcMRK3w4f/9Jf/596ubxLaSQvgMKOH8I6NoiVNgrgHquJ5Wo7CXCFeswJ5qwW2AamSeDnDXfdEz26M/HAK1dOfPHDTFml5Nlk4QyBvQnFBWxSzs=
+				Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		token=XYayHu2L_tT-7Lfn6XSXxmSM540aF2z-Z6MiWLMrftYjUU8dfFvp0RCAU77Sw0S2Yxkk8h18iW0jVc7Dy8-oshrLUYOtKMCrocvgOt8IHUbXPlUKT3I_NmJTgeRIV0cKVnKcrahkpF747L93WLZDW2Q31Qh60mc2z2VBtJfCYX8qOR74sohGqfLa4GPDMxQHkTacC0ECamUZVFhrHcrDaISw87jZKPl-48NgNMjBUXKuavfdCvV4YQYNX3CBdjyzjPBSL94AYTqfRATSYvhMMjaJxAxvazSssfnl1NqOv6UAmcD6Zk6LHHdZPJtH-yaeTUsj4jJzfybuUn_iJTpjDj8RXJzN-CHEjas1PJn2aUTsRp3O4zZfMMGuHINdw0hdsoerwdgv5DNEjLb6xmHd5I2222_qXA7S-l5R7tP1NcrnFA0BXBQD4C_rV0Of9W5h
+Multiparts:		<none>
+Body:
+{
+    "Id": "fc9ad449-a3a2-4fc3-b441-7fda1c8f412a",
+    "Key": "TripleScanEnabled",
+    "Value": "false",
+    "DataType": "System.Boolean",
+    "DefaultValue": "true",
+    "CategoryName": "Journey"
+}
+HTTP/1.1 200 OK
+Date: Sun, 31 May 2020 13:15:37 GMT
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Server: Microsoft-IIS/8.5
+X-Frame-Options: DENY
+X-AspNet-Version: 4.0.30319
+Access-Control-Allow-Headers: Content-Type, Authorization, Accept, X-Requested-With
+Access-Control-Allow-Methods: OPTIONS, TRACE, GET, HEAD, POST, PUT
+Access-Control-Max-Age: 4000
